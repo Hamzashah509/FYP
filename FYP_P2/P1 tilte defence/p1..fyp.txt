@@ -1,0 +1,11 @@
+ In paper [1] the authors studied the testing pattern grades in four e-campus courses at Troy University with 76 graduate students. The research found major significant differences in average test grade scores between tests taken remote online without a proctor as compared to those administered using a live or a remote proctor overall. 
+
+As remote form of learning and education is rapidly increasing, best online proctor systems is the need of the hour to enhance the quality of the courses offered by educational institutes. It concludes by giving “best practices” to enhance quality and integrity of courses in the online environment.
+
+In paper [2] To demonstrate and maintain academic integrity, some institutions require proctor supervision of online exams. However, proctoring can be very expensive. Costs to students can include fees at testing centers, costs to purchase the Remote Proctor, time to find an approved proctor, and effort required to coordinate a time for the exam.
+
+ Costs to the institution include salaries of staff to administer a proctoring process, approval of proctors, maintaining testing centers, and potential loss of enrollments and revenue since not all institutions require proctors for online exams. This paper examines the control issues related to online exams and asserts that the total cost of proctors for online exams (time and money of both students and the institution) exceed potential benefits. The authors propose a less costly, non-proctor alternative to promote academic honesty, using eight control procedures that enable faculty to increase the difficulty and thus reduce the likelihood of cheating by students.
+
+In paper [3] Online education continues to grow, bringing opportunities and challenges for students and instructors. One challenge is the perception that academic integrity associated with online tests is compromised due to undetected cheating that yields artificially higher grades.
+
+ To address these concerns, proctoring software has been developed to address and prevent academic dishonesty. The purpose of this study was to compare online test results from proctored versus un proctored online tests
